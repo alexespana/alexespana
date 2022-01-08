@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there, I'm Alex <img src="https://raw.githubusercontent.com/alexespana/alexespana/master/hello.gif" width="30px">
+### Hi there, I'm Alex <img src="img/hello.gif" width="30px">
 
 ## About me  
 
