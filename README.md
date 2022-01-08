@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there, I'm Alex 👋
+### Hi there, I'm Alex <img src="https://raw.githubusercontent.com/alexespana/alexespana/master/hello.gif" width="30px">
 
 ## About me  
 
@@ -45,7 +45,8 @@ Here are some ideas to get you started:
 
 ---
 ### Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexespana&show_icons=true&theme=radical)
+[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexespana&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexespana&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/alexespsan
 [instagram]: https://www.instagram.com/alexespana_
