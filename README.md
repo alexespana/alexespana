@@ -11,11 +11,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 # Hi there, I'm Alex <img src="img/hello.gif" width="30px">
-<p align="center">
-  <img src="img/header.png""/>
-</p>
+-->
+
+![Header](img/header.png)
+
 ## About me  
 
 - 🔭 I’m currently working on [barpower](https://github.com/alexespana/barpower) project
